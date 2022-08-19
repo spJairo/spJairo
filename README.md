@@ -35,7 +35,7 @@
 <img align="right" alt="Jairo-Codigo" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 </div>
 
-"[Snake animation](https://github.com/spJairo/spJairo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/spJairo/spJairo/blob/output/github-contribution-grid-snake.svg)
 
 
 
