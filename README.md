@@ -1,18 +1,3 @@
-<h1 align="center">Oi 👋, Eu sou o Jairo</h1>
-<h3 align="center">Sou um desenvolvedor back-end</h3>
-
-
-
-
-
-
-- 🔭 Atualmente estou aprendendo **Python**
-
-- 🌱 Estou cursando **Sistema de Informação**
-
-- 🤝 Estou a procura de um **Emprego**
-
-
 ##
 
 
